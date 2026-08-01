@@ -7,7 +7,7 @@
 Here are some fun facts about me:
 
 - ⭐ Learning and working on hands-on projects covering Data Understanding & Preparation
-- ⭐ Visualize data with Power BI, Tableau, Looker Studio, or just simply build dashboards in Excel
+- 🖼️ Visualize data with Power BI, Tableau, Looker Studio, or just simply build dashboards in Excel
 
 Feel free to reach out to me!
 
