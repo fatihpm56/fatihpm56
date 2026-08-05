@@ -20,7 +20,7 @@ Currently, I'm sharpening my skills by building real-world projects in data anal
 - 📊 Building interactive dashboards with **Power BI**, **Tableau**, **Looker Studio**, and **Excel**
 - 🐍 Analyzing datasets using **Python (Pandas, NumPy, Matplotlib, Seaborn)**
 - 🗄️ Writing SQL queries for data extraction and business analysis
-- 📚 Always learning something new about Data Analytics & Machine Learning
+- 📚 Always learning something new about Data Analytics
 
 ---
 
