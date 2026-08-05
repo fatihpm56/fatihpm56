@@ -24,43 +24,6 @@ Currently, I'm sharpening my skills by building real-world projects in data anal
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Database
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-📌 **SQL Business Analysis**
-- Customer segmentation
-- Sales performance
-- Revenue analysis
-
-📌 **Power BI Dashboard**
-- Sales Dashboard
-- HR Analytics Dashboard
-- Financial Dashboard
-
-📌 **Python Data Analysis**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Visualization
-
-More projects coming soon...
-
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/fatihputramaulana/
@@ -68,3 +31,4 @@ More projects coming soon...
 
 ---
 
+More projects coming soon...
