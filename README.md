@@ -68,4 +68,3 @@ More projects coming soon...
 
 ---
 
-> *"Whatever happens, happens."* — Spike Spiegel
