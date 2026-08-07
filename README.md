@@ -13,11 +13,4 @@ Here are some fun facts about me:
 - 🗄️ Writing SQL queries for data extraction and business analysis
 - 📚 Always learning something new about Data Analytics
 ---
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/fatihputramaulana/
-- 📧 Email: fatihpm56@gmail.com
-
----
-
 More projects coming soon...
