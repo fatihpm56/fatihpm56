@@ -1,6 +1,6 @@
 # Hi, I'm Fatih Putra Maulana 👋
 
-🎯 **Aspiring Data Analyst | Geophysics Graduate**
+🎯 **Aspiring Data Analyst | Geophysics Engineering Graduate**
 
 I am a Geophysics graduate with a strong interest in data analytics, statistical analysis, and data-driven decision-making. My engineering background has developed my analytical thinking, problem-solving abilities, and experience in interpreting complex datasets.
 
@@ -11,7 +11,7 @@ Currently, I am developing my skills in data analytics and business intelligence
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis
 - **Database:** SQL
 - **Visualization:** Matplotlib, Data Visualization
-- **Tools:** Google Colab, DBeaver, Microsoft Excel
+- **Tools:** Google Colab, DBeaver, Microsoft Excel, VS Code, Power BI, Tableau
 
 ### 📊 What I'm Working On
 - Analyzing datasets to identify trends, patterns, and actionable insights.
