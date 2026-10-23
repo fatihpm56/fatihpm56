@@ -1,16 +1,31 @@
-## Welcome to another side of me 👋
+# Hi, I'm Fatih Putra Maulana 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R0YXV3YmZ2am9qaW11cDlrM3hubjBiZnJ4ZDg4Zjhtenc1czl2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif" width="400">
-</p>
+🎯 **Aspiring Data Analyst | Geophysics Graduate**
 
-Currently, I'm sharpening my skills by building real-world projects in data analytics and business intelligence.
+I am a Geophysics graduate with a strong interest in data analytics, statistical analysis, and data-driven decision-making. My engineering background has developed my analytical thinking, problem-solving abilities, and experience in interpreting complex datasets.
 
-Here are some fun facts about me:
-- ⭐ Learning and working on hands-on projects covering **Data Understanding, Cleaning, Analysis, and Visualization**
-- 📊 Building interactive dashboards with **Power BI**, **Tableau**, **Looker Studio**, and **Excel**
-- 🐍 Analyzing datasets using **Python (Pandas, NumPy, Matplotlib, Seaborn)**
-- 🗄️ Writing SQL queries for data extraction and business analysis
-- 📚 Always learning something new about Data Analytics
+Currently, I am developing my skills in data analytics and business intelligence through hands-on projects and continuous learning.
+
+### 🛠️ Technical Skills
+- **Programming:** Python
+- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis
+- **Database:** SQL
+- **Visualization:** Matplotlib, Data Visualization
+- **Tools:** Google Colab, DBeaver, Microsoft Excel
+
+### 📊 What I'm Working On
+- Analyzing datasets to identify trends, patterns, and actionable insights.
+- Building data analytics projects using Python and SQL.
+- Developing dashboards and visualizations to communicate findings effectively.
+- Strengthening my knowledge of statistics and business intelligence.
+
+### 🚀 Career Goal
+To become a professional Data Analyst who transforms raw data into meaningful insights and supports better business decisions.
+
+### 📫 Let's Connect
+- **LinkedIn:** https://www.linkedin.com/in/fatihputramaulana/
+- **Email:** fatihpm56@gmail.com
+
 ---
-More projects coming soon...
+
+*Turning data into insights, and insights into better decisions.*
